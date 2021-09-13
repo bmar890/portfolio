@@ -1,0 +1,51 @@
+body {
+  background-color: lightblue;
+}
+
+body {
+  color: #696966;
+  background-color: #EEEEEE;
+}
+
+p {
+  font-family: Verdana;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #696969;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#nav_bar {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav_bar:hover {
+  background-color: #420420;
+}
+
+#this_one {
+  color: red;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
